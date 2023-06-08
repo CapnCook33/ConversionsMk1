@@ -55,5 +55,6 @@ int main() {
     cin >> useAmount;
     d1.setDistance(useAmount);
 
+
     return 0;
 }
