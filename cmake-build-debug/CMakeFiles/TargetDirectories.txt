@@ -1,0 +1,3 @@
+/Users/batman/repos/cpp/ConversionsMk1/cmake-build-debug/CMakeFiles/ConversionsMk1.dir
+/Users/batman/repos/cpp/ConversionsMk1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/batman/repos/cpp/ConversionsMk1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
