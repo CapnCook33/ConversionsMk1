@@ -50,6 +50,9 @@ int main() {
                 "Press 1 for Millimeters, Press 2 for Centimeters, Press 3 for Meters, Press 4 for Kilometers,\n"
                 "Press 5 for Inches, Press 6 for Feet, Press 7 for Yards, Press 8 for Miles, Press 0 to Exit." << endl;
         cin >> distChoice;
+        if(distChoice == 1){
+
+        }
     }
     //Definitely gonna be making some maps for all this.
     cin >> useAmount;
@@ -58,3 +61,5 @@ int main() {
 
     return 0;
 }
+
+//Tossing this in so I can test GitHub.
